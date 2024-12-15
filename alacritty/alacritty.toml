@@ -1,0 +1,14 @@
+[window]
+
+blur = true
+opacity = 0.85
+dynamic_title = false
+title = "Alacritty"
+
+[font]
+
+normal = { family = "JetbrainsMonoNerdFont", style = "Regular" }
+bold = { family = "JetbrainsMonoNerdFont", style = "Bold" }
+italic = { family = "JetbrainsMonoNerdFont", style = "Italic" }
+bold_italic = { family = "JetbrainsMonoNerdFont", style = "Bold Italic" }
+size = 13.0
